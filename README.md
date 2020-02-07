@@ -5,3 +5,5 @@ LAB ACTIVITY 1
 My first GitHub commit!"# 18-020124-CmpSc-132-Lab-1" 
 "# 18-020124-CmpSc-132-Lab-1" 
 "# 18-020124-CmpSc-132-Lab-1" 
+
+wazzup madlang pipol hahahahaha
